@@ -17,6 +17,7 @@ news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+hide_github_icon: true
 ---
 
 Hi, I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison, advised by [Prof. Suman Banerjee](http://pages.cs.wisc.edu/~suman/). Prior to joining UW–Madison, I received my M.S. in Computer Science and Engineering from Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I was a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, working with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about). I also studied at Carnegie Mellon University as a collaborating visitor in an AI-focused intensive program.<br>
