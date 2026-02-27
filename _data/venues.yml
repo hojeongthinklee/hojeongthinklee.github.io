@@ -1,6 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"MobiSys":
+  url: https://www.sigmobile.org/mobisys/
+  color: "#1a73e8"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#e91e63"
+
+"VNC":
+  url: https://ieee-vnc.org/
+  color: "#0277bd"
+
+"ICMLCN":
+  url: https://icmlcn.ieee.org/
+  color: "#6a1b9a"
+
+"VTC":
+  url: https://events.vtsociety.org/
+  color: "#00796b"
+
+"EL":
+  url: https://ietresearch.onlinelibrary.wiley.com/journal/1350911x
+  color: "#f57c00"
+
+"ICT Express":
+  url: https://www.sciencedirect.com/journal/ict-express
+  color: "#c62828"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"KIPS":
+  url: https://www.kips.or.kr/
+  color: "#2e7d32"
