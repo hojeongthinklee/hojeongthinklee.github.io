@@ -23,10 +23,10 @@ hide_github_icon: true
 Hi, I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison, advised by [Prof. Suman Banerjee](http://pages.cs.wisc.edu/~suman/). Prior to joining UW–Madison, I received my M.S. in Computer Science and Engineering from Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I was a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, working with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about). I also studied at Carnegie Mellon University as a collaborating visitor in an AI-focused intensive program.<br>
 
 
-My research interests broadly encompass **network systems** and **mobile systems**, with a focus on practical applications such as **volumetric video streaming**.
+My research focuses on building **efficient systems for emerging AI and multimedia applications**. I am particularly interested in  **on-device AI for mobile systems** and **networked systems for immersive media**, including topics such as energy-efficient speech model inference on mobile devices and real-time volumetric video streaming.
 
 
-**_Actively seeking internship opportunities_** (Summer 2026) in **multimedia network systems** and **mobile systems**.
+**Actively seeking internship opportunities** (Summer 2026) in **mobile systems**, **AI systems**, and **networked multimedia systems**.
 
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
