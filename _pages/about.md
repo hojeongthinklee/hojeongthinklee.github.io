@@ -27,7 +27,7 @@ Hi, I am a Ph.D. student in the Department of Computer Sciences at the Universit
 My research focuses on building **efficient systems for emerging AI and multimedia applications**. I am particularly interested in  **on-device AI for mobile systems** and **networked systems for immersive media**, including topics such as energy-efficient speech model inference on mobile devices and real-time volumetric video streaming.
 
 
-**Actively seeking internship opportunities** (Summer 2026) in **mobile systems**, **AI systems**, and **networked multimedia systems**.
+**Actively seeking internship opportunities** in **mobile systems**, **AI systems**, and **networked multimedia systems**.
 
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
