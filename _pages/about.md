@@ -23,18 +23,18 @@ hide_github_icon: true
 
 I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison, advised by [Prof. Suman Banerjee](http://pages.cs.wisc.edu/~suman/).
 
-#### Previously
+##### Previously
 
 - **Korea University** — M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr).
-- **[Internet Systems Lab](https://netstech.org/), University of Colorado Boulder** — Visiting scholar; collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about).
+- **Internet Systems Lab, University of Colorado Boulder** — Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about).
 - **Carnegie Mellon University** — Visiting student in an AI-focused intensive program.
 
-#### Research Interests
+##### Research Interests
 
 - **On-device AI & Mobile Systems** — Efficient AI inference on mobile devices
 - **Networked Multimedia Systems** — Real-time streaming systems for media applications
 
-#### Internship Opportunities
+##### Internship Opportunities
 
 Open to internship opportunities in **Mobile Systems · AI Systems · Networked Multimedia Systems**.
 
