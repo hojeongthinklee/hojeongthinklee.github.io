@@ -98,4 +98,5 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
-initTheme(localStorage.getItem("theme"));
+// Always follow the visitor's system (prefers-color-scheme) setting.
+initTheme(null);
