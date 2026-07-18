@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received **IEEE Communications Society (ComSoc) Student Travel Grant** for **IEEE ICMLCN 2024**
+I received a **Student Travel Grant** for **IEEE ICMLCN 2024**

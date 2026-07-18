@@ -21,13 +21,22 @@ social: true  # includes social icons at the bottom of the page
 hide_github_icon: true
 ---
 
-Hi, I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison, advised by [Prof. Suman Banerjee](http://pages.cs.wisc.edu/~suman/). Prior to joining UW–Madison, I received my M.S. in Computer Science and Engineering from Korea University, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr). I was a visiting scholar at [Internet Systems Lab](https://netstech.org/), University of Colorado Boulder, working with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about). I also studied at Carnegie Mellon University as a collaborating visitor in an AI-focused intensive program.<br>
+I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin–Madison, advised by [Prof. Suman Banerjee](http://pages.cs.wisc.edu/~suman/).
 
+#### Previously
 
-My research focuses on building **efficient systems for emerging AI and multimedia applications**. I am particularly interested in  **on-device AI for mobile systems** and **networked systems for immersive media**, including topics such as energy-efficient speech model inference on mobile devices and real-time volumetric video streaming.
+- **Korea University** — M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr).
+- **[Internet Systems Lab](https://netstech.org/), University of Colorado Boulder** — Visiting scholar; collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about).
+- **Carnegie Mellon University** — Visiting student in an AI-focused intensive program.
 
+#### Research Interests
 
-**Actively seeking internship opportunities** in **mobile systems**, **AI systems**, and **networked multimedia systems**.
+- **On-device AI & Mobile Systems** — Efficient AI inference on mobile devices
+- **Networked Multimedia Systems** — Real-time streaming systems for media applications
+
+#### Internship Opportunities
+
+Open to internship opportunities in **Mobile Systems · AI Systems · Networked Multimedia Systems**.
 
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
