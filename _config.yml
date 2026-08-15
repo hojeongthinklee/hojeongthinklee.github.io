@@ -325,7 +325,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # the deploy workflow has no ImageMagick step, so no .webp was ever generated; leaving this on emitted <source> tags pointing at files that 404
   widths:
     - 480
     - 800
