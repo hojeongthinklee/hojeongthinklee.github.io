@@ -764,13 +764,9 @@ footer.sticky-bottom {
         }
       }
 
-      .entry-award {
-        color: var(--global-theme-color);
-        font-weight: 700;
-      }
-
       .links {
-        a.btn {
+        a.btn,
+        .entry-award {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
           padding-left: 1rem;
@@ -778,10 +774,29 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          // MDB uppercases button labels; keep the label as it is written so
+          // "Code" and "arXiv" read the way they are meant to. Its font size
+          // was picked for all-caps, so lowercase needs a little more.
+          text-transform: none;
+          font-size: 0.75rem;
+        }
 
+        a.btn {
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+          }
+        }
+
+        // Same badge as the links beside it, but an award is a fact about the
+        // paper rather than somewhere to go, so it stays inert.
+        .entry-award {
+          cursor: default;
+
+          &:hover {
+            color: var(--global-text-color);
+            border-color: var(--global-text-color);
+            box-shadow: none;
           }
         }
       }
