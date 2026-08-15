@@ -4,6 +4,19 @@
 
 // Typography
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  // MDB's Roboto stack relies on weights 300 and 500, which Arial does not
+  // have -- both would render as regular and flatten every bold. Base the
+  // scale on 400/700 instead, which Arial does have.
+  font-weight: 400;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
 p,
 h1,
 h2,
@@ -186,7 +199,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 26%;
 
     .address {
       p {
@@ -604,6 +617,25 @@ footer.sticky-bottom {
 }
 
 
+// News
+
+.news {
+  // The table's bottom margin is trapped inside .table-responsive, so it adds
+  // to the following heading's margin instead of collapsing into it. Drop it,
+  // along with the last row's padding, to keep that gap even with the others.
+  table {
+    margin-bottom: 0;
+
+    tr:last-child {
+      th,
+      td {
+        padding-bottom: 0;
+      }
+    }
+  }
+}
+
+
 // Publications
 
 .publications {
@@ -641,11 +673,39 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1.5rem;
+      position: relative;
 
       .preview {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+      }
+
+      // Sit in the page margin so an entry with a preview keeps the exact same
+      // text position as one without. Below the breakpoint there is no margin
+      // left to use, so stack above the entry instead.
+      .margin-preview {
+        position: absolute;
+        right: 100%;
+        top: 0.15rem;
+        width: 150px;
+        margin-right: 1.25rem;
+
+        figure {
+          margin: 0;
+        }
+
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      @media (max-width: 1180px) {
+        .margin-preview {
+          position: static;
+          margin: 0 0 0.6rem;
+        }
       }
 
       .abbr {
@@ -702,6 +762,11 @@ footer.sticky-bottom {
             border-bottom: 1px dashed var(--global-text-color);
           }
         }
+      }
+
+      .entry-award {
+        color: var(--global-theme-color);
+        font-weight: 700;
       }
 
       .links {
@@ -779,6 +844,21 @@ footer.sticky-bottom {
   }
 }
 
+// On the about page, the news table opens with 9.6px of cell padding on top of
+// the heading's own 8px margin. The default 2rem here would collapse over that
+// and sit lower than news, so match the combined 17.6px instead.
+.section-heading + .publications {
+  margin-top: 1.1rem;
+}
+
+// Work-in-progress entries are shorter than full publications, so they need
+// less breathing room between them.
+.publications.wip {
+  ol.bibliography li {
+    margin-bottom: 1rem;
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
@@ -817,6 +897,17 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  // Section headings on the about page (news, work in progress, ...)
+  .section-heading {
+    margin-top: 3rem;
+  }
+
+  // The bio block is cleared, so its last child's bottom margin cannot collapse
+  // into the first section heading's. Drop it so that gap matches the rest.
+  .clearfix > :last-child {
+    margin-bottom: 0;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;

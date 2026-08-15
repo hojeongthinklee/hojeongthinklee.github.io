@@ -43,7 +43,7 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2>news</h2>
+            <h2 class="section-heading">News</h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -55,13 +55,13 @@ layout: default
 
           <!-- Work in Progress -->
           {% if page.wip_papers -%}
-            <h2>work in progress</h2>
+            <h2 class="section-heading">Work in Progress</h2>
             {%- include wip_papers.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2>selected publications</h2>
+            <h2 class="section-heading">Selected Publications</h2>
             {%- include selected_papers.html %}
           {%- endif %}
 

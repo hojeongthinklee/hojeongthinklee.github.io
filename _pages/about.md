@@ -25,18 +25,15 @@ I am a Ph.D. student in the Department of Computer Sciences at the University of
 
 ##### Previously
 
-- **Korea University** — M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)
-- **Internet Systems Lab, University of Colorado Boulder** — Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/about)
-- **Carnegie Mellon University** — Visiting student in an AI-focused intensive program
+- **Korea University**: M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)
+- **Internet Systems Lab, University of Colorado Boulder**: Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/people/)
+- **Carnegie Mellon University**: Visiting student in an AI-focused intensive program
 
 ##### Research Interests
 
-- **On-device AI & Mobile Systems** — Efficient AI inference on mobile devices
-- **Networked Multimedia Systems** — Real-time streaming systems for media applications
+- **On-device AI & Mobile Systems**: Efficient AI inference on mobile devices
+- **Networked Multimedia Systems**: Real-time streaming systems for media applications
 
-##### Internship Opportunities
-
-Open to internship opportunities in **Mobile Systems · AI Systems · Networked Multimedia Systems**.
 
 
 <!-- Changed? Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
