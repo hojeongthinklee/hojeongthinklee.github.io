@@ -5,6 +5,14 @@
         {%- if site.enable_publication_thumbnails and entry.preview or entry.abbr -%}
         <div class="margin-preview {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
+          {%- if entry.video -%}
+            {%- if entry.video contains '://' -%}
+              {%- assign video_url = entry.video -%}
+            {%- else -%}
+              {%- assign video_url = entry.video | prepend: '/assets/video/' | relative_url -%}
+            {%- endif -%}
+            <a class="preview-link" href="{{ video_url }}" title="Watch the demo video" rel="noopener" target="_blank">
+          {%- endif -%}
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
           {%- else -%}
@@ -15,6 +23,7 @@
             zoomable=false
             alt=entry.preview -%}
           {%- endif -%}
+          {%- if entry.video %}</a>{% endif -%}
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
