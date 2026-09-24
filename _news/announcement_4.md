@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a **Student Travel Grant** for **IEEE ICMLCN 2024**
+:trophy: I received a **Student Travel Grant** for **IEEE ICMLCN 2024**

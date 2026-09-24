@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the **Summer Graduate Fellowship Award** from the department
+:trophy: I received the **Summer Graduate Fellowship Award** from the department

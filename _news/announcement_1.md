@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my Ph.D. in Computer Sciences at **UW–Madison**
+:mortar_board: I have started my Ph.D. in Computer Sciences at **UW–Madison**

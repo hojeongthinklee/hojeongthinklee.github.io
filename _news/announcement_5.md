@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**DeltaStream** has been accepted to **ACM MobiSys 2025**
+:tada: **DeltaStream** has been accepted to **ACM MobiSys 2025**
