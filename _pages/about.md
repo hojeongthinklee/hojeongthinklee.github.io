@@ -25,7 +25,7 @@ I am a Ph.D. student in the Department of Computer Sciences at the University of
 
 ##### Previously
 
-- **Korea University**: M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)
+- **Korea University**: M.S. and B.E. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)
 - **Internet Systems Lab, University of Colorado Boulder**: Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/people/)
 - **Carnegie Mellon University**: Visiting student in an AI-focused intensive program
 
