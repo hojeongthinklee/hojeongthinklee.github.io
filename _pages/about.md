@@ -25,10 +25,9 @@ I am a Ph.D. student in the Department of Computer Sciences at the University of
 
 ##### Previously
 
-- <img class="school-logo" src="{{ '/assets/img/logos/korea.svg' | relative_url }}" alt=""> <span>**Korea University**<br><small>M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)</small></span>
-- <img class="school-logo" src="{{ '/assets/img/logos/cu-boulder.svg' | relative_url }}" alt=""> <span>**Internet Systems Lab, University of Colorado Boulder**<br><small>Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/people/)</small></span>
-- <img class="school-logo" src="{{ '/assets/img/logos/cmu.png' | relative_url }}" alt=""> <span>**Carnegie Mellon University**<br><small>Visiting student in an AI-focused intensive program</small></span>
-{: .school-list}
+- **Korea University**: M.S. in Computer Science and Engineering, advised by [Prof. Hyogon Kim](http://widen.korea.ac.kr)
+- **Internet Systems Lab, University of Colorado Boulder**: Visiting scholar, collaborated with [Prof. Sangtae Ha](https://netstech.org/sangtaeha/) and [Prof. Seyeon Kim](https://seralab.korea.ac.kr/people/)
+- **Carnegie Mellon University**: Visiting student in an AI-focused intensive program
 
 ##### Research Interests
 

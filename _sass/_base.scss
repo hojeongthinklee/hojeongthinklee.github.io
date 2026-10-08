@@ -1180,24 +1180,3 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
-
-// School logos in the "Previously" list
-
-.school-list {
-  list-style: none;
-  padding-left: 0;
-
-  li {
-    display: flex;
-    align-items: center;
-    gap: 0.9rem;
-    margin-bottom: 0.9rem;
-  }
-}
-
-.school-logo {
-  flex-shrink: 0;
-  width: 40px;
-  height: 40px;
-  object-fit: contain;
-}
